@@ -1,0 +1,11 @@
+body {
+
+    background: linear-gradient(to top, #fff, #000, #fff);
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+
